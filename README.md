@@ -1,4 +1,4 @@
-# Likho ✍️
+# Likho (लिखो) ✍️
 
 > **A blog that comes in a single file.**
 
